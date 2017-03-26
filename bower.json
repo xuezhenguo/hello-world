@@ -1,0 +1,24 @@
+{
+  "name": "snow",
+  "description": "nosw",
+  "main": "add.js",
+  "authors": [
+    "snow"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "snow"
+  ],
+  "homepage": "https://github.com/xuezhenguo/hello-world",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
